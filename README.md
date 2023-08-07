@@ -1,23 +1,21 @@
-# Welcome to My Ngram
-***
+# Welcome to My N_gram
+Welcome to my_ngram.
+HELLO Here, it's the Resume of my_project : my_ngram...
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem is to resolve the challenge of to reproduce the program n_gram who have for role to image the next word(s) of a text or voice message like the good program of google adapted in December 2010.
 
 ## Description
-TODO - How have you solved the problem?
+For to resolve this problem, i've use the differents properties searched on the website and diverses,without forgot to know what is a Makefile, and How to create one with a data in our possession.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+This package haven't need installation.
 
 ## Usage
-TODO - How does it work?
+Just by assimilating the differents properties learned on the website.
 ```
-./my_project argument1 argument2
+./my_project Makefile, my_ngram.c
 ```
-
-### The Core Team
-
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
